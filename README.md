@@ -1,8 +1,43 @@
-# Hi, I'm Drew DeGabriele 👋
+# Hello-World
 
-I'm a business analytics student at the **University of Iowa** who likes to work with data, sports, and live events
+## Project Title
 
-## About me
+**Hello-World:** my first GitHub repository and personal introduction page
+
+## Description
+
+This repository is my first project on GitHub. It was created to learn the basics of version control (creating a repository, editing files, and committing changes) and to practice writing documentation with **Markdown** syntax. The README also works as a short introduction to who I am.
+
+I'm Drew DeGabriele, a business analytics student at the **University of Iowa** who likes working with data, sports, and live events.
+
+## Tools Used
+
+- **GitHub:** hosting the repository and tracking changes with commits
+- **GitHub web editor:** editing files directly in the browser
+- **Markdown:** formatting this README (headings, bold text, lists, tables, links, and code blocks)
+
+## Files Used
+
+| File | Purpose |
+| --- | --- |
+| `README.md` | Describes the project and introduces me, written in Markdown |
+
+## How to Run Program
+
+There is no code to run; this project is documentation only. To view it:
+
+1. Go to the repository page: https://github.com/Drew-DeGabriele/Hello-World
+2. GitHub automatically shows the formatted `README.md` below the file list.
+3. *(Optional)* Clone the repository and open `README.md` in any Markdown viewer:
+
+```bash
+git clone https://github.com/Drew-DeGabriele/Hello-World.git
+cd Hello-World
+```
+
+## Additional Information
+
+### About me
 
 - 🎓 B.B.A. in **Business Analytics and Information Systems**, with a minor in **Sports Media and Culture** (University Honors Program, graduating May 2028)
 - 🔄 Transferred from **North Iowa Area Community College**, where I finished A.A. and A.S. degrees in Mathematics with a 4.0 GPA
@@ -11,19 +46,19 @@ I'm a business analytics student at the **University of Iowa** who likes to work
 - ⛳ Former member of the NIACC golf team
 - 🔎 Looking for a summer internship in sports business or analytics
 
-## Interests
+### Interests
 
 - Turning sports and event data into useful insights
 - Game-day operations and how live events actually run
 - Building projects that connect analytics with sports media
 
-## Skills
+### Skills
 
 - **Languages and tools:** Excel, Python, SQL
 - **Analytics and math:** Statistics, data visualization, hypothesis testing, regression, calculus
 - **Operations:** Stat-keeping, live event management, gameday logistics
 
-## Contact information
+### Contact information
 
 - 📫 Email: drew-degabriele@uiowa.edu
 - 💼 LinkedIn: https://www.linkedin.com/in/drew-degabriele/
