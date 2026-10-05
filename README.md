@@ -1,5 +1,18 @@
 # Hello-World
 
+## Table of Contents
+
+1. [Project Title](#project-title)
+2. [Description](#description)
+3. [Tools Used](#tools-used)
+4. [Files Used](#files-used)
+5. [How to Run Program](#how-to-run-program)
+6. [Additional Information](#additional-information)
+   - [About me](#about-me)
+   - [Interests](#interests)
+   - [Skills](#skills)
+   - [Contact information](#contact-information)
+
 ## Project Title
 
 **Hello-World:** my first GitHub repository and personal introduction page
