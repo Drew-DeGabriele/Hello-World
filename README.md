@@ -37,16 +37,7 @@ I'm Drew DeGabriele, a business analytics student at the **University of Iowa** 
 
 ## How to Run Program
 
-There is no code to run; this project is documentation only. To view it:
-
-1. Go to the repository page: https://github.com/Drew-DeGabriele/Hello-World
-2. GitHub automatically shows the formatted `README.md` below the file list.
-3. *(Optional)* Clone the repository and open `README.md` in any Markdown viewer:
-
-```bash
-git clone https://github.com/Drew-DeGabriele/Hello-World.git
-cd Hello-World
-```
+There is no code to run for this project.
 
 ## Additional Information
 
