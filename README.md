@@ -31,9 +31,7 @@ I'm Drew DeGabriele, a business analytics student at the **University of Iowa** 
 
 ## Files Used
 
-| File | Purpose |
-| --- | --- |
-| `README.md` | Describes the project and introduces me, written in Markdown |
+`README.md` Describes the project and introduces me, written in Markdown
 
 ## How to Run Program
 
