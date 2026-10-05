@@ -15,7 +15,7 @@
 
 ## Project Title
 
-**Hello-World:** my first GitHub repository and personal introduction page
+**Hello-World:** my first GitHub repository and personal introduction page.
 
 ## Description
 
@@ -25,13 +25,13 @@ I'm Drew DeGabriele, a business analytics student at the **University of Iowa** 
 
 ## Tools Used
 
-- **GitHub:** hosting the repository and tracking changes with commits
-- **GitHub web editor:** editing files directly in the browser
-- **Markdown:** formatting this README (headings, bold text, lists, tables, links, and code blocks)
+- **GitHub:** hosting the repository and tracking changes with commits.
+- **GitHub web editor:** editing files directly in the browser.
+- **Markdown:** formatting this README (headings, bold text, lists, tables, links, and code blocks).
 
 ## Files Used
 
-`README.md` Describes the project and introduces me, written in Markdown
+`README.md` Describes the project and introduces me, written in Markdown.
 
 ## How to Run Program
 
