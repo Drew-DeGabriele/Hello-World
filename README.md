@@ -31,7 +31,9 @@ I'm Drew DeGabriele, a business analytics student at the **University of Iowa** 
 
 ## Files Used
 
-`README.md` Describes the project and introduces me, written in Markdown.
+- `README.md`: Describes the project and introduces me, written in Markdown.
+- `basketball_stats.py`: Python script that calculates FG%, effective FG%, and true shooting % for sample players and ranks them.
+- `event_attendance.sql`: SQL script that creates a table of athletic events and summarizes average attendance and percent of capacity by sport.
 
 ## How to Run Program
 
