@@ -37,7 +37,8 @@ I'm Drew DeGabriele, a business analytics student at the **University of Iowa** 
 
 ## How to Run Program
 
-There is no code to run for this project.
+- **`basketball_stats.py`:** Requires Python 3 (no extra packages needed). From the repository folder, run `python basketball_stats.py` in a terminal. It prints a table of each player's points, FG%, eFG%, and TS%, sorted by true shooting %.
+- **`event_attendance.sql`:** Open the file in any SQL tool (for example SQLite, MySQL, or an online SQL editor) and run the whole script. It creates the `events` table, inserts sample data, and returns average attendance and percent of capacity by sport.
 
 ## Additional Information
 
